@@ -4,4 +4,20 @@
     <loc>https://your-website-url.example.com/index.html</loc>
     <lastmod>2026-01-14T13:37:47.595Z</lastmod>
   </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
+    <lastmod>2026-01-14T13:28:03.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
+    <lastmod>2026-01-14T13:28:03.724Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/about.html</loc>
+    <lastmod>2026-01-14T13:28:03.732Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/contact.html</loc>
+    <lastmod>2026-01-14T14:27:40.562Z</lastmod>
+  </url>
 </urlset>
